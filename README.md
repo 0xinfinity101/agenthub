@@ -1,7 +1,7 @@
 # agenthub
 AgentHub airdrop
 
-Signup (HERE)[ https://join.agnthub.ai/?ref=9UAI ] use your twitter account
+Signup [HERE](https://join.agnthub.ai/?ref=9UAI) use your twitter account
 
 Its will automatically create new wallet
 
